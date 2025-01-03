@@ -10,7 +10,8 @@
     font-family: 'Poppins';
     scroll-behavior: smooth;
   }
-  html, body {
+ 
+  body,html{
     overflow-x: hidden;
   }
   
